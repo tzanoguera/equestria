@@ -1,0 +1,44 @@
+body {
+  background-color: powderblue;
+}
+
+#cPalomino {
+  color: red;
+}
+
+h1 {
+  color: black;
+}
+
+h2 {
+	color: pink;
+}
+
+nav {
+  display: block;
+}
+
+article { 
+  display: block;
+}
+
+header { 
+  display: block;
+}
+
+footer { 
+  display: block;
+}
+
+  details {
+	display: block;
+}
+
+aside { 
+  display: block;
+}
+
+section {
+	display: block;
+}
+}
