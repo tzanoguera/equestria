@@ -1,0 +1,96 @@
+body {
+  background-color: #FFEBCD;
+  color: blue
+}
+
+#Buit {
+	background-color: white;
+}
+
+h1 {
+  color: green;
+  text-align: left;
+  font-size: 1.5em;
+  font-style: italic;
+}
+
+h2 {
+	color: hsl(0, 0%, 71%);
+    font-style: italic;
+
+}
+
+p {
+  font-size: 0.875em;
+  font-family: sans-serif;
+
+}
+
+nav {
+  display: block;
+  float: left;
+  width: 100%;
+  height: 20px;
+  background: #D2691E;
+  padding: 10px;
+  outline-style: dotted;
+}
+
+nav ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+article { 
+  display: block;
+  float: left;
+  padding: 20px;
+  width: 85%;
+  background-color: #FFE4C4;
+  height: 550px;
+  border-radius: 35px;
+}
+
+header { 
+  display: block;
+  background-color:hsla(100, 100%, 64%, 0.3);
+  padding: 1px;
+  text-align: center;
+  font-size: 60px;
+  color: black;
+}
+
+footer { 
+  display: block;
+  background-color: #777;
+  padding: 10px;
+  text-align: center;
+  color: white;
+}
+
+  details {
+	display: block;
+}
+
+aside { 
+  display: block;
+  background-color: #DEB887;
+  padding: 10px;
+  text-align: center;
+  color: white;
+}
+
+section:after {
+  display: block;
+  content: "";
+  display: table;
+  clear: both;
+}
+
+table, th, td {
+  background-color: #F5F5DC;
+  border: 0px solid black;
+  border-collapse: collapse;
+  text-align: justify;
+}
+
